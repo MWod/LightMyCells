@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scipy
+# aicsimageio
+# bioformats_jar
+torch
+torchio
+torchvision
+lightning
+torch-summary
+SimpleITK
+tensorboard
+monai
+pytorch-ignite
+einops
